@@ -1,4 +1,6 @@
-<h1 align="center">Hasnain Khushi</h1>
+<Div>
+  
+  <h1 align="center">Hasnain Khushi</h1>
 <h3 align="center">Front End Developer</h3>
 <p align="center">
 
@@ -39,3 +41,5 @@
   <img src="https://github.com/hasnain23233/Hasnain/blob/main/Components/bootstrap-svgrepo-com.svg" alt="JavaScript Logo" width="50" height="50" />
 </Div>
 
+
+</Div>
