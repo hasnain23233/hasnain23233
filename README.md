@@ -1,7 +1,7 @@
 <Div>
   
   <h1 align="center">Hasnain Khushi</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">I am a</h3>
 <p align="center">
 
 </p>
