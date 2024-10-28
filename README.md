@@ -10,7 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&random=true&width=500&lines=Front+End+Developer;JavaScript+Developer;React+Developer;Web+Developer;AI+Developer;;Gamer" alt="Typing SVG" />
 </p>
 
-⚡ Fun fact: I'm an avid traveler and have a goal to visit every continent.
 
 # Languages:
 <Div style="display = "flex"">
