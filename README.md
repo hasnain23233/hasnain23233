@@ -15,7 +15,8 @@
 - 📫 Contact me: hasnainkhushii@gmail.com
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=hasnain23233&label=Profile%20views&color=0e75b6&style=flat)
+[![Hasnain Khushi profile views](https://u8views.com/api/v1/github/profiles/161228105/views/day-week-month-total-count.svg)](https://u8views.com/github/hasnain23233)
+
 
 
 ### 💻 Languages & Technologies
