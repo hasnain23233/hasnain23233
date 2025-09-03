@@ -2,18 +2,18 @@
 <h3 align="center">🚀 Full Stack Developer | React & Next.js | Node.js & MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&width=600&lines=Full+Stack+Developer;Frontend:+React+%26+Next.js;Backend:+Node.js+%26+Express;MongoDB+with+Mongoose;Tech+Explorer+%F0%9F%9A%80;Gamer+%E2%9A%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&width=650&lines=Full+Stack+Developer;Frontend:+React+%26+Next.js;Backend:+Node.js+%26+Express;MongoDB+with+Mongoose;Tech+Explorer+%F0%9F%9A%80;Gamer+%E2%9A%BD" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🧠 About Me
 
-- 🌐 I craft modern, responsive, and scalable web applications.  
+- 🌐 Building modern, responsive & scalable **full stack web apps**  
 - 🖥️ **Frontend**: React.js, Next.js, Tailwind CSS  
 - ⚙️ **Backend**: Node.js, Express.js, MongoDB with Mongoose  
-- 💡 I enjoy building full-stack apps and exploring the intersection of frontend & backend.  
-- 📫 Reach me at: **hasnainkhushii@gmail.com**
+- 💡 Exploring **AI + Web** and modern technologies  
+- 📫 Contact: **hasnainkhushii@gmail.com**
 
 ---
 
@@ -23,40 +23,39 @@
 
 ### 💻 Tech Stack
 
-#### 🗣️ Languages:
+#### 🗣️ Languages
 <p>
-  <img src="https://github.com/hasnain23233/Hasnain/blob/main/Components/javascript-js.svg" width="40" title="JavaScript" />
-  <img src="https://github.com/user-attachments/assets/2a687552-a59d-4bf3-9717-2a64ebd9262a" width="40" title="HTML/CSS" />
-  <img src="https://github.com/user-attachments/assets/3f31d4d8-6f15-4323-9d36-842a0a9190d2" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
 </p>
 
-#### ⚙️ Tools & Platforms:
+#### 🧩 Frameworks & Libraries
 <p>
-  <img src="https://github.com/user-attachments/assets/59a57b5d-69e2-4437-8b19-2e3968fe55d5" width="40" title="Git" />
-  <img src="https://github.com/user-attachments/assets/d565e522-5b9d-4efc-a73f-a5da448ef9d6" width="40" title="GitHub" />
-  <img src="https://github.com/user-attachments/assets/6e437439-9860-4110-8738-65ed8044a51a" width="40" title="VS Code" />
-  <img src="https://github.com/user-attachments/assets/6c67d0b1-a45b-4b5a-9125-414ef01b1f2b" width="40" title="Netlify" />
-  <img src="https://github.com/user-attachments/assets/0496cea0-58dc-476a-8cfc-e4c0c0e555e9" width="40" title="Vercel" />
-  <img src="https://github.com/user-attachments/assets/f9f8b0d6-9122-4acc-a73a-15f165c066b4" width="40" title="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery" />
 </p>
 
-#### 🧩 Libraries & Frameworks:
+#### 🗄️ Backend & Database
 <p>
-  <img src="https://github.com/hasnain23233/Hasnain/blob/main/Components/reactjs-svgrepo-com.svg" width="40" title="React.js" />
-  <img src="https://github.com/user-attachments/assets/5a9a9b78-cb80-4ec5-85ca-b4ab170de5dd" width="40" title="Next.js" />
-  <img src="https://github.com/hasnain23233/Hasnain/blob/main/Components/tailwind-css-svgrepo-com.svg" width="40" title="Tailwind CSS" />
-  <img src="https://github.com/hasnain23233/Hasnain/blob/main/Components/bootstrap-svgrepo-com.svg" width="40" title="Bootstrap" />
-  <img src="https://github.com/user-attachments/assets/bd309672-ad04-4ece-ba81-e71f3f618abf" width="40" title="Redux" />
-  <img src="https://github.com/user-attachments/assets/452466a2-d7a2-4a0a-a4e0-ee653e7daa02" width="40" title="jQuery" />
-  <img src="https://github.com/user-attachments/assets/bf32ef60-d2ca-406a-875b-68d7721455cf" width="40" title="Chart.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
 </p>
 
-#### 🗄️ Backend & Database:
+#### ⚙️ Tools & Platforms
 <p>
-  <img src="https://github.com/user-attachments/assets/1b4b91c4-4dc7-4567-8c32-28e5405cce41" width="40" title="Node.js" />
-  <img src="https://github.com/user-attachments/assets/82b6a7f3-7db1-49da-a9b5-5027c36c95fc" width="40" title="Express.js" />
-  <img src="https://github.com/user-attachments/assets/1527cb7c-3d83-40ff-94cc-bfca0c6cbb28" width="40" title="MongoDB" />
-  <img src="https://github.com/user-attachments/assets/5437ae8d-23b6-4d89-b222-5ef6b626aee4" width="40" title="Mongoose" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
 </p>
 
 ---
@@ -74,6 +73,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnain23233&theme=react" width="47%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasnain23233&theme=react" width="47%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasnain23233&theme=react&utcOffset=5" width="47%" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hasnain23233&theme=algolia&margin-w=5&margin-h=5&no-frame=true" width="95%" />
 </p>
 
