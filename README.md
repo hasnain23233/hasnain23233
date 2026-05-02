@@ -1,90 +1,84 @@
-<h1 align="center">Hi, I'm Hasnain Khushi 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | React & Next.js | Node.js & MongoDB</h3>
+<h1 align="center">Hasnain Khushi</h1>
+<h3 align="center">Full Stack Developer · React & Next.js · Node.js & MongoDB</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Cambria&weight=600&size=30&duration=1000&pause=1000&center=true&width=650&lines=Full+Stack+Developer;Frontend:+React+%26+Next.js;Backend:+Node.js+%26+Express;MongoDB+with+Mongoose;Tech+Explorer+%F0%9F%9A%80;Gamer+%E2%9A%BD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=600&lines=Building+modern+full+stack+web+apps;React+%26+Next.js+%7C+Node.js+%26+MongoDB;Open+to+freelance+%26+collaborations" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Available%20for%20Hire-✔-brightgreen?style=for-the-badge" />
+  <a href="mailto:hasnainkhushii@gmail.com"><img src="https://img.shields.io/badge/Email-hasnainkhushii@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hasnain-khushii-1162802a8/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🧠 About Me
+## 🙋 About Me
 
-- 🌐 Building modern, responsive & scalable **full stack web apps**  
-- 🖥️ **Frontend**: React.js, Next.js, Tailwind CSS  
-- ⚙️ **Backend**: Node.js, Express.js, MongoDB with Mongoose  
-- 💡 Exploring **AI + Web** and modern technologies  
-- 📫 Contact: **hasnainkhushii@gmail.com**
+I'm a **Full Stack Developer** based in Pakistan, focused on building fast, scalable, and beautiful web experiences.
 
----
-
-[![Hasnain Khushi profile views](https://u8views.com/api/v1/github/profiles/161228105/views/day-week-month-total-count.svg)](https://u8views.com/github/hasnain23233)
+- 🔭 Currently working on **AI-powered web apps**
+- 🛠️ Stack: **React, Next.js, Node.js, MongoDB, TypeScript**
+- 💼 Open to **freelance projects, remote jobs & collaborations**
+- 📫 Reach me: **hasnainkhushii@gmail.com**
 
 ---
 
-### 💻 Tech Stack
+## 🚀 What I Build for Clients
 
-#### 🗣️ Languages
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
-</p>
-
-#### 🧩 Frameworks & Libraries
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" title="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" title="Tailwind CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="40" title="jQuery" />
-</p>
-
-#### 🗄️ Backend & Database
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
-</p>
-
-#### ⚙️ Tools & Platforms
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" title="Vercel" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" width="40" title="Netlify" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma" />
-</p>
+| Service | Stack |
+|---|---|
+| 🖥️ Web Applications | React.js, Next.js, Tailwind CSS |
+| ⚙️ REST APIs & Backends | Node.js, Express.js, MongoDB |
+| 🎨 UI/UX Implementation | Figma to Code, Component Libraries |
+| 🤖 AI Integration | LLM APIs, OpenAI, Intelligent Automation |
 
 ---
 
-### 📈 GitHub Stats & Activity
+## 💻 Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hasnain23233&show_icons=true&theme=react&hide_border=true" width="47%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=hasnain23233&theme=react&hide_border=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasnain23233&layout=compact&theme=react&hide_border=true" width="47%" />
 </p>
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hasnain23233&theme=react" width="95%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hasnain23233&theme=react" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hasnain23233&theme=react" width="47%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hasnain23233&theme=react&utcOffset=5" width="47%" />
 </p>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hasnain23233&theme=algolia&margin-w=5&margin-h=5&no-frame=true" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hasnain23233&theme=algolia&margin-w=5&no-frame=true" width="95%" />
 </p>
 
 ---
 
-### 🔗 Connect with Me
+## 🤝 Let's Work Together
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hasnain-khushii-1162802a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:hasnainkhushii@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://github.com/hasnain23233"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
-</p>
+I'm open to freelance work, remote positions, and open source collaboration.
+
+📧 **hasnainkhushii@gmail.com**  
+💼 **[LinkedIn](https://www.linkedin.com/in/hasnain-khushi-web-developer/)**  
+🐙 **[GitHub](https://github.com/hasnain23233)**
+
+> *"Good code is not written, it's rewritten."*
