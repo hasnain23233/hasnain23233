@@ -15,7 +15,7 @@
 
 ## 🙋 About Me
 
-I'm a **Full Stack Developer** based in Pakistan, focused on building fast, scalable, and beautiful web experiences.
+I'm a **Full Stack Developer** based in Pakistan, focused on building fast, scalable, and beautiful web experiences..
 
 - 🔭 Currently working on **AI-powered web apps**
 - 🛠️ Stack: **React, Next.js, Node.js, MongoDB, TypeScript**
